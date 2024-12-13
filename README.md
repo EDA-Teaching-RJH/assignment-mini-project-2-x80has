@@ -1,1 +1,8 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17519770)
+# Recipe Manager Project
+
+I have decided to create a recipe manager which allows you to:
+Manage recipes stored in a CSV file.
+Add new recipes to the list by editing the CSV file:
+Search for recipes based on keywords such as the name of the recipe 
+Filter recipes based on ingredients and their quantities 
+
